@@ -176,3 +176,12 @@
     margin-top: 3rem;
     height: auto;
 }
+
+.ss-work{
+    display: grid;
+    justify-content: center;
+}
+
+.featured-works{
+    text-align: center;
+}
